@@ -1,5 +1,5 @@
-# <summary><strong>Hi there :wave: , I'm Goo!</strong></summary>
-Lifelong Learner, currently working as Admin IT but openly a new job.
+# <summary><strong>Hi there :wave: , I'm Izdihar Fazrianti</strong></summary>
+Lifelong Learner, currently working as Admin IT but openly for a new job.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
 
@@ -21,8 +21,8 @@ Lifelong Learner, currently working as Admin IT but openly a new job.
 <a href="https://www.instagram.com/izdhr25/">
   <img align="left" alt="Izdihar Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
 </a>
-<a href="https://www.linkedin.com/in/izdihar-fazrianti-90568b252/">
-  <img align="left" alt="Izdihar Linkedln" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
+<a href="https://www.linkedin.com/in/izdihar-fazrianti-90568b252/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 
@@ -45,6 +45,6 @@ Tools
 <img src="https://img.shields.io/badge/Methodology-SDLC-4CAF50?logo=scrumalliance&logoColor=white" /> - SDLC Development
 
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=namaAnda&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namaAnda&layout=compact" height=180 />
+    <img src="https://github-readme-stats.vercel.app/api?username=izdhr25&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izdhr25&layout=compact" height=180 />
 </p>
