@@ -27,6 +27,11 @@
   <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&logo=codeigniter&logoColor=white" alt="CodeIgniter" />
 </p>
 
+**Architecture & Security** <p>
+  <img src="https://img.shields.io/badge/REST_API-005571?style=flat&logoColor=white" alt="REST API" />
+  <img src="https://img.shields.io/badge/JSON_Web_Token-000000?style=flat&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+</p>
+
 **Frontend** <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
@@ -44,6 +49,8 @@
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Laragon-0096D6?style=flat&logoColor=white" alt="Laragon" />
   <img src="https://img.shields.io/badge/Navicat-1A4C7F?style=flat&logoColor=white" alt="Navicat" />
+  <img src="https://img.shields.io/badge/Draw.io-F2931E?style=flat&logo=diagramsdotnet&logoColor=white" alt="Draw.io" />
+  <img src="https://img.shields.io/badge/StarUML-E69C24?style=flat&logoColor=white" alt="StarUML" />
   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoft&logoColor=white" alt="MS Office" />
 </p>
 
