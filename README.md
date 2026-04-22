@@ -1,6 +1,4 @@
-<h3 style="text-center">
 # Hi there 👋, I'm Izdihar Fazrianti
-</h3>
 
 **Lifelong Learner | Admin IT | Open to New Opportunities**
 
