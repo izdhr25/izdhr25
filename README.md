@@ -1,6 +1,10 @@
+<h3 style="text-center">
 # Hi there 👋, I'm Izdihar Fazrianti
+</h3>
 
 **Lifelong Learner | Admin IT | Open to New Opportunities**
+
+<p align="left">Mahasiswa semester 4 Jurusan Teknik Informatika Universitas Bina Insani. Saya memahami bahasa pemrograman Java serta PHP. Memahami alur Pembangunan website mulai dari nol dengan metode Software Development Life Cycle menggunakan framework Laravel, REST API, JSON Web Token, Supabase, MySQL, Tailwind dan Bootstrap serta CI/CD dengan Gitlab. Punya kepribadian yang gigih dan pantang menyerah serta keingintahuan yang tinggi. Memiliki manajemen waktu yang baik. Terbiasa bekerja sejak tahun 2023 sebagai Website Developer.</p>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=izdhr25&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
