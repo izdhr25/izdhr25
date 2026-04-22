@@ -1,50 +1,72 @@
-# <summary><strong>Hi there :wave: , I'm Izdihar Fazrianti</strong></summary>
-Lifelong Learner, currently working as Admin IT but openly for a new job.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+# Hi there 👋, I'm Izdihar Fazrianti
+
+**Lifelong Learner | IT Administrator | Open to New Opportunities**
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=izdhr25&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-### <summary><strong>Tools:</strong></summary>
-<p>
-    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
+### 👩🏻‍💻 About Me
+- 💻 I’m currently working as an **Admin IT**.
+- 🌱 **Lifelong Learner**, always eager to explore new technologies.
+- 🏊🏻‍♀️ When I'm not coding or working, I enjoy **swimming** and **baking**.
+- ☁️ Pronouns: She/Her.
+- 📫 How to reach me: [izdihar0825@gmail.com](mailto:izdihar0825@gmail.com)
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Languages & Frameworks** <p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&logo=codeigniter&logoColor=white" alt="CodeIgniter" />
 </p>
 
-### <summary><strong>Yosh!</strong></summary>
-<p>
-    - :keyboard: I’m currently learning Data Analytics. </br>
-    - :speech_balloon: Ask me about anything.</br>
-    - :mailbox: How to reach me: <a href="mailto:youremail@gmail.com">Email me!</a>  </br>
-    - :cloud: Pronouns: She/Her. </br>
-    - :game_die: Drawing and writing are part of me. </br>
-<p>
- 
-### <summary><strong>Let's connect!</strong></summary>
-<a href="https://www.instagram.com/izdhr25/">
-  <img align="left" alt="Izdihar Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
-</a>
-<a href="https://www.linkedin.com/in/izdihar-fazrianti-90568b252/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+**Frontend** <p>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
 
+**Databases** <p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase" />
+</p>
 
-Tools
-Tools
-<img src="https://img.shields.io/badge/Code-PHP-777BB4?logo=php&logoColor=white" /> - PHP
-<img src="https://img.shields.io/badge/Framework-Laravel-FF2D20?logo=laravel&logoColor=white" /> - Laravel
-<img src="https://img.shields.io/badge/Framework-CodeIgniter-EF4223?logo=codeigniter&logoColor=white" /> - CodeIgniter
-<img src="https://img.shields.io/badge/Database-PostgreSQL-4169E1?logo=postgresql&logoColor=white" /> - PostgreSQL
-<img src="https://img.shields.io/badge/Database-Supabase-3ECF8E?logo=supabase&logoColor=white" /> - Supabase
-<img src="https://img.shields.io/badge/Database-MySQL-4479A1?logo=mysql&logoColor=white" /> - MySQL
-<img src="https://img.shields.io/badge/Style-Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=white" /> - Tailwind CSS
-<img src="https://img.shields.io/badge/Style-Bootstrap-7952B3?logo=bootstrap&logoColor=white" /> - Bootstrap
-<img src="https://img.shields.io/badge/Tools-Microsoft_Office-D83B01?logo=microsoft&logoColor=white" /> - Microsoft Office
-<img src="https://img.shields.io/badge/Deploy-Hostinger-673AB7?logo=hostinger&logoColor=white" /> - Hostinger
-<img src="https://img.shields.io/badge/Deploy-Arenhost-003366?logo=cpanel&logoColor=white" /> - Arenhost
-<img src="https://img.shields.io/badge/Deploy-Cloud_Platforms-2088FF?logo=googlecloud&logoColor=white" /> - Cloud
-<img src="https://img.shields.io/badge/Methodology-CI%2FCD-2088FF?logo=githubactions&logoColor=white" /> - CI/CD
-<img src="https://img.shields.io/badge/Methodology-Agile_Development-0052CC?logo=jira&logoColor=white" /> - Agile Development
-<img src="https://img.shields.io/badge/Methodology-SDLC-4CAF50?logo=scrumalliance&logoColor=white" /> - SDLC Development
+**Tools & Environments** <p>
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoft&logoColor=white" alt="MS Office" />
+</p>
 
+**Deployment & Methodologies** <p>
+  <img src="https://img.shields.io/badge/Hostinger-673AB7?style=flat&logo=hostinger&logoColor=white" alt="Hostinger" />
+  <img src="https://img.shields.io/badge/Arenhost-003366?style=flat&logo=cpanel&logoColor=white" alt="Arenhost" />
+  <img src="https://img.shields.io/badge/Cloud-2088FF?style=flat&logo=googlecloud&logoColor=white" alt="Cloud" />
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=githubactions&logoColor=white" alt="CI/CD" />
+  <img src="https://img.shields.io/badge/Agile-0052CC?style=flat&logo=jira&logoColor=white" alt="Agile" />
+  <img src="https://img.shields.io/badge/SDLC-4CAF50?style=flat&logo=scrumalliance&logoColor=white" alt="SDLC" />
+</p>
+
+---
+
+### 📊 GitHub Analytics
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=izdhr25&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izdhr25&layout=compact" height=180 />
+    <img src="https://github-readme-stats.vercel.app/api?username=izdhr25&hide=contribs,prs&show_icons=true&hide_border=true&title_color=0e75b6&icon_color=0e75b6" height="160" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izdhr25&layout=compact&hide_border=true&title_color=0e75b6" height="160" alt="Top Languages" />
+</p>
+
+---
+
+### 🤝 Let's Connect!
+<p>
+  <a href="https://www.linkedin.com/in/izdihar-fazrianti-90568b252/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/izdhr25/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:izdihar0825@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
